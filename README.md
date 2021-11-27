@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Logic232
 
 🌀Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.
-Measuring programming progress by lines of code is like measuring aircraft building progress by weight.Never underestimate the determination of a kid who is time-rich.
+Measuring programming progress by lines of code is like measuring aircraft building progress by weight.Never underestimate the determination of someone who is time-rich.
 
 🌀I love programming a lot ,and i'm looking forward to learn other programming languages.Which i know is going to be a great experience for me though.
 
