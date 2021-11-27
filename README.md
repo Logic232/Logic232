@@ -9,7 +9,7 @@ Logic232/Logic232 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Logic232&theme=gruvbox)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Logic232&theme=tokyonight)
 
 ![Github Stats](http://github-readme-streak-stats.herokuapp.com?user=Logic232&theme=merko&amp;date_format=M%20j%5B%2C%20Y%5D)
 
