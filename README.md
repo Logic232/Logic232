@@ -19,8 +19,9 @@ You can click the Preview link to take a look at your changes.
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Logic232&theme=tokyonight&layout=compact" width="480">
 </p>
 
+<p align = "right">
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Logic232&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
+</p>
 
 
 
