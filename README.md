@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <p align = "right">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Logic232&show_icons=true&theme=tokoyonight&layout=compact">
+  <img src = "https://github-readme-stats.vercel.app/api?username=Logic232&show_icons=true&theme=tokyonight&layout=compact">
 </p>
 
 <p align = "left">
