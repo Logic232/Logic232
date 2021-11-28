@@ -10,12 +10,16 @@ Measuring programming progress by lines of code is like measuring aircraft build
 Logic232/Logic232 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Logic232&theme=radical)   ![Github Stats](http://github-readme-streak-stats.herokuapp.com?user=Logic232&theme=radical&amp;date_format=M%20j%5B%2C%20Y%5D) 
-<br>
-![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Logic232&amp;theme=radical&amp)
 
+<p align = "right">
+  <img src = "https://github-readme-stats.vercel.app/api?username=Logic232&show_icons=true&theme=tokoyonight&layout=compact">
+</p>
 
+<p align = "left">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Logic232&theme=tokyonight&layout=compact" width="480">
+</p>
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Logic232&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
 
