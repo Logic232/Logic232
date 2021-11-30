@@ -12,15 +12,15 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <p align = "right">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Logic232&show_icons=true&theme=tokyonight&layout=compact">
+  <img src = "https://github-readme-stats.vercel.app/api?username=Logic232&show_icons=true&theme=merko&layout=compact">
 </p>
 
 <p align = "left">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Logic232&theme=radical&layout=compact" width="480">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Logic232&theme=tokyonight&layout=compact" width="480">
 </p>
 
 <p align = "right">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=Logic232&theme=merko&amp;date_format=M%20j%5B%2C%20Y%5D"
+<img src="http://github-readme-streak-stats.herokuapp.com?user=Logic232&theme=radicl&amp;date_format=M%20j%5B%2C%20Y%5D"
 </p>
 
 
