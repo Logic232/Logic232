@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 <img src="http://github-readme-streak-stats.herokuapp.com?user=Logic232&theme=tokyonight&amp;date_format=M%20j%5B%2C%20Y%5D">
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Logic232https://github-readme-stats.vercel.app/api/wakatime?username=Logic232">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Logic232">
 
 
  
