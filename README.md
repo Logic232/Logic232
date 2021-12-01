@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 <img src="http://github-readme-streak-stats.herokuapp.com?user=Logic232&theme=tokyonight&amp;date_format=M%20j%5B%2C%20Y%5D">
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Logic232&amp;bg_color=30,fff0000,904e95&amp;title_color=000&amp;text_color=000">
+<img src="https://github-readme-stats.vercel.app/api?username=Logic232&amp;bg_color=30,e96443,904e95&amp;title_color=fff&amp;text_color=fff">
 
 
  
