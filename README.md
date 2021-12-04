@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <p align = "right">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=Logic232&theme=radical&amp;date_format=M%20j%5B%2C%20Y%5D">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=Logic232&theme=merko&amp;date_format=M%20j%5B%2C%20Y%5D">
 </p>
 
 
