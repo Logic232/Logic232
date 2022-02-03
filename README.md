@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <p align = "left">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Logic232&theme=merko&layout=compact" width="480">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Logic232&theme=radical&layout=compact" width="480">
 </p>
 
 <p align = "right">
