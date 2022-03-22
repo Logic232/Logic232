@@ -10,7 +10,7 @@ Measuring programming progress by lines of code is like measuring aircraft build
 Logic232/Logic232 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img src="https://camo.githubusercontent.com/bcbce91ab602fe4d15e739c13aae4ea918ee767b85662f9db434bcac408474e3/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d63796265726e6f626965266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="cybernobie" data-canonical-src="https://komarev.com/ghpvc/?username=Logic232&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/bcbce91ab602fe4d15e739c13aae4ea918ee767b85662f9db434bcac408474e3/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d63796265726e6f626965266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="Logic232" data-canonical-src="https://komarev.com/ghpvc/?username=Logic232&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;">
 <p align = "right">
    
   <img src="https://github-readme-stats.vercel.app/api?username=Logic232&amp;bg_color=30,e96443,904e95&amp;title_color=fff&amp;text_color=fff">
