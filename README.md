@@ -5,7 +5,7 @@ Measuring programming progress by lines of code is like measuring aircraft build
 
 🌀I love programming a lot ,and i'm looking forward to learn other programming languages.Which i know is going to be a great experience for me though.
 ![](https://komarev.com/ghpvc/?Logic232=your-github-Logic232)
-   
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=Logic232&label=Profile%20views&color=0e75b6&style=flat" alt="Logic232" /> </p>
 <!---
 Logic232/Logic232 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
