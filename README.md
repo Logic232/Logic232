@@ -10,7 +10,7 @@ Measuring programming progress by lines of code is like measuring aircraft build
 Logic232/Logic232 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![](https://komarev.com/ghpvc/?Logic232=your-github-Logic232&label=PROFILE+VIEWS)
+
    
   <img src="https://github-readme-stats.vercel.app/api?username=Logic232&amp;bg_color=30,e96443,904e95&amp;title_color=fff&amp;text_color=fff">
 </p>
