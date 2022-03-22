@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
    
-  <img src="https://github-readme-stats.vercel.app/api?username=Logic232&amp;bg_color=30,e96443,ff0000&amp;title_color=#2B2A33&amp;text_color=fff">
+  <img src="https://github-readme-stats.vercel.app/api?username=Logic232&amp;bg_color=30,e96443,ff0000&amp;title_color=fff000&amp;text_color=fff">
 </p>
 
 <p align = "left">
