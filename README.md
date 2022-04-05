@@ -9,6 +9,7 @@ Logic232/Logic232 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&background=FF351900&center=true&width=398&lines=Just+a+regular+guy+interested+in+coding)](https://git.io/typing-svg)
    
   <img src="https://github-readme-stats.vercel.app/api?username=Logic232&amp;bg_color=30,e96443,ff0000&amp;title_color=fff000&amp;text_color=#fe428e">
 </p>
